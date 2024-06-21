@@ -1,0 +1,38 @@
+# Node modules directory
+node_modules/
+
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+dist/
+build/
+
+# Generated files
+*.cache
+*.tmp
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# IDE specific files
+.vscode/
+.idea/
+.DS_Store
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# Environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test coverage directory
